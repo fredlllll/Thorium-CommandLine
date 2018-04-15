@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Thorium_CommandLine
+namespace Thorium.CommandLine
 {
     public class ConsoleMenu
     {
